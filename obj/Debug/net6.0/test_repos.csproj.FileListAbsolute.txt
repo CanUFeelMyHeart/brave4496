@@ -1,0 +1,15 @@
+C:\GeekBrains\4484_group\test_repos\bin\Debug\net6.0\test_repos.exe
+C:\GeekBrains\4484_group\test_repos\bin\Debug\net6.0\test_repos.deps.json
+C:\GeekBrains\4484_group\test_repos\bin\Debug\net6.0\test_repos.runtimeconfig.json
+C:\GeekBrains\4484_group\test_repos\bin\Debug\net6.0\test_repos.dll
+C:\GeekBrains\4484_group\test_repos\bin\Debug\net6.0\test_repos.pdb
+C:\GeekBrains\4484_group\test_repos\obj\Debug\net6.0\test_repos.csproj.AssemblyReference.cache
+C:\GeekBrains\4484_group\test_repos\obj\Debug\net6.0\test_repos.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\4484_group\test_repos\obj\Debug\net6.0\test_repos.AssemblyInfoInputs.cache
+C:\GeekBrains\4484_group\test_repos\obj\Debug\net6.0\test_repos.AssemblyInfo.cs
+C:\GeekBrains\4484_group\test_repos\obj\Debug\net6.0\test_repos.csproj.CoreCompileInputs.cache
+C:\GeekBrains\4484_group\test_repos\obj\Debug\net6.0\test_repos.dll
+C:\GeekBrains\4484_group\test_repos\obj\Debug\net6.0\refint\test_repos.dll
+C:\GeekBrains\4484_group\test_repos\obj\Debug\net6.0\test_repos.pdb
+C:\GeekBrains\4484_group\test_repos\obj\Debug\net6.0\test_repos.genruntimeconfig.cache
+C:\GeekBrains\4484_group\test_repos\obj\Debug\net6.0\ref\test_repos.dll
